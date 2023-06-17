@@ -1,7 +1,9 @@
+## https://github.com/bhannigan/baseimage/Dockerfile
+
 ## set base image
 #
 
-FROM phusion/baseimage-docker
+  FROM phusion/baseimage:jammy-1.0.1
 
 ## install packages
 #
