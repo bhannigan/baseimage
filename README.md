@@ -1,0 +1,2 @@
+# baseimage
+minimal ubuntu image
