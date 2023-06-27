@@ -1,11 +1,8 @@
 # baseimage
-minimal ubuntu image
+minimal debian image
 
-instructions:
-in portainer -> images -> build image
-  name: baseimage
-  copy Dockerfile contents and paste into webeditor
+### build - portainer 
 
-
-todo:
-  - would be nice to link Dockerfile directly to build process
+    in images -> build image
+      name: baseimage
+      url: https://github.com/bhannigan/baseimage.git
