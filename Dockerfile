@@ -3,8 +3,8 @@
 ## set base image
 #
 
-  FROM phusion/baseimage:jammy-1.0.1
-
+  FROM debian
+  
 ## install packages
 #
 
